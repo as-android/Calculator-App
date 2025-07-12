@@ -12,3 +12,7 @@ This is a basic calculator app built with Jetpack Compose.
 - Kotlin
 - Jetpack Compose
 - MVVM architecture
+
+| Light Mode                          | Dark Mode                         |
+|-------------------------------------|-----------------------------------|
+| ![Light](screenshots/LightMode.jpg) | ![Dark](screenshots/DarkMode.jpg) |
